@@ -1,0 +1,8 @@
+README.md
+setup.py
+isCubed/__init__.py
+isCubed.egg-info/PKG-INFO
+isCubed.egg-info/SOURCES.txt
+isCubed.egg-info/dependency_links.txt
+isCubed.egg-info/not-zip-safe
+isCubed.egg-info/top_level.txt
